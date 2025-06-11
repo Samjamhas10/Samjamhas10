@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samsam Hashi</h1>
+<h1 align="center">Hi 👋,  I'm Samsam Hashi</h1>
 <h3 align="center">A software engineering student at TripleTen, and I am passionate about coding.</h3>
 
 - 🔭 I’m currently working on **What To Wear Weather App**

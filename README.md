@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **What To Wear Weather App**
 
-- 🌱 I’m currently learning **Backend development/ Authentication & Authorization**
+- 🌱 I’m currently learning **Full-Stack development**
 
 - 👯 I’m looking to collaborate on **Front-end and CSS projects**
 

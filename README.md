@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,  I'm Samsam Hashi</h1>
 <h3 align="center">A software engineering student at TripleTen, and I am passionate about coding.</h3>
 
-- 🔭 I’m currently working on **Gaming Discovery App**
+- 🔭 I’m currently working on a **Gaming Discovery App**
 
 - 🌱 I’m currently learning **Full-Stack development**
 

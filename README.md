@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,   I'm Samsam Hashi</h1>
-<h3 align="center">I’m a Software Engineer passionate about building user-friendly and inclusive applications. I recently graduated from the TripleTen Software Engineering Bootcamp, where I honed my skills in React, JavaScript, CSS, HTML, and backend development.</h3>
+<h3 align="center">I’m a Software Engineer passionate about building user-friendly and inclusive applications. I graduated from the TripleTen Software Engineering Bootcamp, where I honed my skills in React, JavaScript, CSS, HTML, and backend development.</h3>
 
 - 🔭 I’m currently working on a **Gaming Discovery App**
 

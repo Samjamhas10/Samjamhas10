@@ -31,7 +31,6 @@ building real-world projects using modern frontend and backend technologies.
 
 ### 💬 Ask Me About
 - React, JavaScript, HTML, CSS
-- Bootcamp-to-industry transition
 - Building projects from idea → deployment
 
 ### 📫 Contact Me

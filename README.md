@@ -21,9 +21,9 @@ building real-world projects using modern frontend and backend technologies.
 
 ### 🛠️ Tech Stack
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3  
-- **Backend:** Node.js, Express (learning & building)  
+- **Backend:** Node.js, Express
 - **Tools:** Git, GitHub, REST APIs, npm, VS Code  
-- **Deployment:** Learning multi-environment deployments (dev/staging/prod)
+- **Deployment:** Google Cloud, Netlify
 
 ### 🤝 Collaboration
 - Open to collaborating on **full-stack and frontend projects**
